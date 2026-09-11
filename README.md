@@ -1,58 +1,104 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🌿 Ateliê Botânico — Elaine Silva
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+> Arte, natureza e tecnologia reunidas em um espaço digital para apresentar minhas obras autorais.
 
-## About Laravel
+## 🎨 Sobre o projeto
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+O **Ateliê Botânico** é um projeto web desenvolvido por mim, **Elaine Silva**, para apresentar digitalmente meu trabalho artístico e meu acervo de **obras autorais**.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Todas as obras apresentadas neste projeto são **pinturas realizadas por mim**, fazendo parte do meu trabalho artístico pessoal. O sistema foi desenvolvido com o objetivo de unir duas áreas que fazem parte da minha trajetória: **arte e tecnologia**.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Através do projeto, cada obra pode ser apresentada individualmente, com sua imagem, título, descrição e demais informações, criando uma experiência digital para apreciação e organização do meu acervo.
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 🖌️ Minhas obras autorais
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+As imagens apresentadas no **Ateliê Botânico** correspondem a **obras de minha própria autoria**, pintadas por mim.
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+O projeto reúne diferentes pinturas e trabalhos artísticos, permitindo que meu acervo seja apresentado de maneira organizada e acessível através de uma galeria digital.
 
-## Agentic Development
+### Algumas obras presentes no acervo:
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+- 🎨 **Céu de Savana**
+- 🌙 **Ao Balanço do Luar**
+- ❤️ **Amor Eterno**
+- 🔥 **Anoitecer em Chamas**
+- 🌿 **Meu Paraíso Particular**
+- 🌸 **Ipê Rosa**
+- 🌌 **Minha Noite Estrelada**
+- 💧 **Cachoeira**
+- ✨ **Reflexos de Ouro**
+- 🌙 **Um Luar**
 
-```bash
-composer require laravel/boost --dev
+> **Todas as obras e imagens artísticas apresentadas neste repositório são de autoria de Elaine Silva.**
+>
+> © Elaine Silva — Todos os direitos reservados.
 
-php artisan boost:install
-```
+---
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+## 💻 Tecnologia por trás da arte
 
-## Contributing
+Além de representar meu trabalho artístico, este projeto também demonstra minha aplicação prática de conhecimentos em **Desenvolvimento de Sistemas**.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+O Ateliê Botânico foi desenvolvido utilizando:
 
-## Code of Conduct
+### Backend
+- PHP
+- Laravel
+- Eloquent ORM
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Frontend
+- HTML
+- CSS
+- Blade
+- Tailwind CSS
 
-## Security Vulnerabilities
+### Banco de dados
+- MySQL
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Ferramentas
+- Visual Studio Code
+- Git
+- GitHub
+- Laragon
 
-## License
+---
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## 🌱 Jardim Digital
+
+O **Jardim Digital** é a galeria virtual do Ateliê Botânico.
+
+Nele, minhas obras são organizadas e apresentadas de forma individual, permitindo que cada pintura tenha sua própria página.
+
+O sistema utiliza informações armazenadas em banco de dados, como:
+
+- Título da obra
+- Descrição
+- Imagem
+- Categoria
+- Destaque
+- Data do projeto
+- Slug para identificação da obra
+
+---
+
+## 👩‍💻🎨 Sobre mim
+
+### Elaine Silva
+
+Sou **Desenvolvedora de Sistemas Fullstack**, com conhecimentos em PHP, Laravel, Python, banco de dados, HTML, CSS, Java e Análise de Sistemas.
+
+O **Ateliê Botânico** representa uma combinação especial entre minhas áreas de interesse: **criatividade, arte e tecnologia**.
+
+Por meio deste projeto, busco demonstrar que o desenvolvimento de sistemas também pode ser utilizado para preservar, apresentar e valorizar trabalhos artísticos autorais.
+
+---
+
+## 📌 Direitos autorais
+
+As obras de arte, fotografias das obras e demais conteúdos artísticos apresentados neste projeto são de **autoria de Elaine Silva**.
+
+**É proibida a reprodução, cópia, distribuição ou utilização comercial das obras sem autorização prévia da autora.**
+
+© Elaine Silva — Todos os direitos reservados.
