@@ -3,13 +3,16 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-
 use Illuminate\Support\Str;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class JardimDigital extends Model
 {
-     protected $fillable = [
+    use HasFactory;
+
+    protected $table = 'meu_jardim_digital';
+
+    protected $fillable = [
         'titulo',
         'slug',
         'descricao',
@@ -39,6 +42,4 @@ class JardimDigital extends Model
     {
         return asset('storage/' . $this->imagem);
     }
-
-    
 }

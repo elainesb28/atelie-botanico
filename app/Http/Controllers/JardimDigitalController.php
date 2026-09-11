@@ -16,7 +16,7 @@ class JardimDigitalController extends Controller
     public function index()
     {
         $projetos = JardimDigital::all();
-        return view('projetos.index', compact('projetos'));
+        return view('index', compact('projetos'));
     }
 
     public function show($slug)
